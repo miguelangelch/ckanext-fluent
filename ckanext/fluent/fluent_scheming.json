@@ -1,6 +1,6 @@
 {
   "scheming_version": 1,
-  "dataset_type": "fluent-test",
+  "dataset_type": "dataset",
   "about_url": "http://github.com/open-data/ckanext-fluent",
   "form_languages": ["en", "fr"],
   "dataset_fields": [
