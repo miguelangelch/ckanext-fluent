@@ -1,6 +1,6 @@
 {
     "scheming_version": 1,
-    "about_url": "http://github.com/ckan/ckanext-scheming",
+    "about_url": "http://github.com/miguelangelch/ckanext-scheming",
     "type": "organization",
     "organization_type": "organization",
     "form_languages": ["es", "ca", "en"],
