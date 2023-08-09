@@ -6,31 +6,7 @@
     {
       "field_name": "title_translated",
       "label": "Name",
-      "preset": "fluent_core_translated",
-      "form_placeholder": "Group name",
-      "classes": ["col-md-12","form-group"]
-    },
-    {
-      "field_name": "name",
-      "label": "URL",
-      "form_snippet": "slug.html",
-      "form_placeholder": "group-name",
-      "classes": ["col-md-12","form-group"]
-    },
-    {
-      "field_name": "description_translated",
-      "label": {
-        "en": "Description",
-        "fr": "La description"
-      },
-      "help_inline" : true,
-      "preset": "fluent_core_translated",
-      "form_placeholder": "A little information about my group...",
-      "classes": ["col-md-12","form-group"]
-    },
-    {
-      "field_name": "image_url",
-      "classes": ["col-md-12","form-group"]
+      "preset": "fluent_core_translated"
     }
   ]
 }
