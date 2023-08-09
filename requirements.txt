@@ -1,3 +1,3 @@
--e git+https://github.com/ckan/ckanext-scheming.git#egg=ckanext-scheming
+-e git+https://github.com/miguelangelch/ckanext-scheming.git#egg=ckanext-scheming
 six
 ckantoolkit>=0.0.7
